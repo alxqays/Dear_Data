@@ -1,0 +1,32 @@
+Observation,Date,Time Opened,Time Closed,Object,Location,Reason
+1,17/10/2026,11:25,18:02,Laptop,Bedroom - Desk,Catching up on Creative Coding exercises.
+2,17/10/2026,12:00,12:00,AirPods Case,Bedroom - Desk,Listening to music.
+3,17/10/2026,14:24,14:26,Door,Bathroom,Toilet.
+4,17/10/2026,14:25,14:26,Sink Tap,Bathroom,Washing hands.
+5,17/10/2026,16:14,18:02,Notebook,Bedroom - Desk,Finishing off Maths tutorial exercises.
+6,17/10/2026,18:03,18:03,AirPods Case,Bedroom - Desk,Taking off AirPods.
+7,17/10/2026,18:08,18:10,Door,Bathroom,Toilet.
+8,17/10/2026,18:09,18:10,Sink Tap,Bathroom,Washing hands.
+9,17/10/2026,19:00,19:00,Door,Hallway,Going to the kitchen.
+10,17/10/2026,19:01,19:01,Door,Kitchen,Making dinner.
+11,17/10/2026,19:02,19:03,Fridge,Kitchen,Taking out ingredients.
+12,17/10/2026,19:05,19:07,Microwave,Kitchen,Heating food.
+13,17/10/2026,19:08,19:08,Sauce,Kitchen,Adding sauce to food.
+14,17/10/2026,19:40,19:42,Sink Tap,Kitchen,Washing dishes.
+15,17/10/2026,19:43,19:43,Door,Hallway,Going to my room.
+16,17/10/2026,19:44,19:44,Door,Bedroom,Going to my room.
+17,17/10/2026,20:00,20:00,Door,Bathroom,Going to shower.
+18,17/10/2026,20:05,20:30,Shower Door,Bathroom,Taking a shower.
+19,17/10/2026,20:35,20:38,Cream,Bathroom,Putting on cream.
+20,18/10/2026,09:10,09:10,Door,Bathroom,Getting ready.
+21,18/10/2026,09:12,09:20,Sink Tap,Bathroom,"Washing hands, face and brushing teeth."
+22,18/10/2026,09:13,09:13,Toothpaste,Bathroom,Brushing teeth.
+23,18/10/2026,09:18,09:18,Cream,Bathroom,Putting on cream.
+24,18/10/2026,09:50,09:52,Water Compartment of an Iron,Bedroom - Desk,Ironing some clothes.
+25,18/10/2026,10:20,10:20,Door,Hallway,Going to the kitchen.
+26,18/10/2026,10:21,10:21,Door,Kitchen,Making breakfast.
+27,18/10/2026,10:22,10:23,Fridge,Kitchen,Getting ingredients.
+28,18/10/2026,10:25,10:25,Cupboard,Kitchen,Getting pan and spices.
+29,18/10/2026,10:30,10:30,Egg Carton,Kitchen,Cooking eggs.
+30,18/10/2026,10:33,10:33,Spice,Kitchen,Seasoning eggs.
+31,18/10/2026,10:48,10:48,Sink Tap,Kitchen,Washing dishes.
