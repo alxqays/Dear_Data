@@ -90,7 +90,7 @@ Observation,Date,Time Opened,Time Closed,Object,Location,Reason
 89,20/10/2026,15:33,15:33,Cupboard,Kitchen,Putting everything away.
 90,20/10/2026,15:34,15:34,Door,Hallway,Going to bedroom.
 91,20/10/2026,15:35,15:35,Door,Bedroom,Going to do some work.
-92,23/10/2026,12:04,12:04,Door - Spiral Stairs,College Building ,Going to tutorial.
+92,23/10/2026,12:04,12:04,Door - Spiral Stairs,College Building Main Entrance,Going to tutorial.
 93,23/10/2026,12:05,12:05,Door,A220,Going to tutorial.
 94,23/10/2026,12:06,12:49,Bag,A220,Getting laptop out.
 95,23/10/2026,12:06,12:49,Laptop Case,A220,Getting laptop out.
@@ -118,3 +118,84 @@ Observation,Date,Time Opened,Time Closed,Object,Location,Reason
 117,23/10/2026,20:02,20:04,Sink Tap,Kitchen,Washing dishes.
 118,23/10/2026,20:04,20:04,Door,Hallway,Going back to room.
 119,23/10/2026,20:05,20:05,Door,Bedroom,Going back to room.
+120,26/10/2026,08:54,08:54,Door,College Building Main Entrance,Going to Maths Lecture.
+121,26/10/2026,08:55,10:53,Chair,Great Hall,Sitting down.
+122,26/10/2026,08:56,10:53,Table,Great Hall,To place laptop down.
+123,26/10/2026,08:57,10:52,Bag,Great Hall,Getting laptop out.
+124,26/10/2026,08:57,10:52,Laptop Case,Great Hall,Getting laptop out.
+125,26/10/2026,08:57,10:52,Laptop,Great Hall,Making notes.
+126,26/10/2026,13:15,13:17,Coat Pocket,Canteen,Getting out phone to pay for lunch.
+127,26/10/2026,13:55,13:55,Door,C313,Going to Maths tutorial.
+128,26/10/2026,13:56,14:50,Bag,C313,Getting laptop out.
+129,26/10/2026,13:56,14:50,Laptop Case,C313,Getting laptop out.
+130,26/10/2026,13:56,14:50,Laptop,C313,Doing tutorial exercises.
+131,26/10/2026,13:56,14:50,Notebook,C313,Doing tutorial exercises.
+132,26/10/2026,15:00,15:00,Door,Great Hall,Going to Creative Coding lecture.
+133,26/10/2026,15:01,15:46,Chair,Great Hall,Sitting down.
+134,26/10/2026,15:01,15:46,Table,Great Hall,To place laptop down.
+135,26/10/2026,15:01,15:45,Bag,Great Hall,Getting laptop out.
+136,26/10/2026,15:02,15:45,Laptop Case,Great Hall,Getting laptop out.
+137,26/10/2026,15:02,15:45,Laptop,Great Hall,Looking at lecture notes.
+138,26/10/2026,16:30,16:30,Door,Flat,Going home.
+139,26/10/2026,16:31,16:31,Door,Bedroom,Going to my room.
+140,26/10/2026,16:50,16:50,Door,Hallway,Going to do my washing.
+141,26/10/2026,16:51,16:51,Door,Lift Area,Going to the ground floor to do my washing.
+142,26/10/2026,17:00,17:00,Door,Laundry Room,Doing my washing.
+143,26/10/2026,17:03,17:03,Washing Machine,Laundry Room,Putting in the first load.
+144,26/10/2026,17:05,17:05,Washing Machine,Laundry Room,Putting in the second load.
+145,26/10/2026,17:10,17:10,Notebook,Laundry Room,Continuing Maths tutorial exercises whilst waiting.
+146,26/10/2026,17:55,17:55,Washing Machine,Laundry Room,Taking out washing.
+147,26/10/2026,17:57,17:57,Washing Machine,Laundry Room,Taking out washing.
+148,26/10/2026,18:05,18:05,Door,Flat,Going to my room to hang the washing.
+149,26/10/2026,18:06,18:06,Door,Bedroom,Going to hang the washing.
+150,26/10/2026,18:55,18:55,Door,Hallway,Going to Tescos.
+151,26/10/2026,18:56,18:56,Door,Lift Area,Going to Tescos.
+152,26/10/2026,19:10,19:12,Fridge,Tesco,Buying food.
+153,26/10/2026,19:45,19:45,Door,Flat,Going home.
+154,26/10/2026,19:46,19:46,Door,Kitchen,Putting away shopping and making dinner.
+155,26/10/2026,19:47,19:47,Fridge,Kitchen,Putting away shopping and making dinner.
+156,26/10/2026,19:49,19:49,Cupboard,Kitchen,Putting away shopping and making dinner.
+157,26/10/2026,19:54,19:54,Sink Tap,Kitchen,"Getting water for the pot, making ramen."
+158,26/10/2026,19:59,19:59,Egg Carton,Kitchen,Making dinner.
+159,26/10/2026,20:25,20:27,Sink Tap,Kitchen,Washing dishes.
+160,26/10/2026,20:27,20:27,Door,Hallway,Going to my room.
+161,26/10/2026,20:28,20:28,Door,Bedroom,Going to my room.
+162,27/10/2026,09:00,09:00,Door,College Building Main Entrance,Going to Databases lecture.
+163,27/10/2026,09:02,09:02,Door,Great Hall,Going to Databases lecture.
+164,27/10/2026,09:03,10:48,Chair,Great Hall,Sitting down.
+165,27/10/2026,09:03,10:48,Table,Great Hall,To place laptop down.
+166,27/10/2026,09:04,10:46,Bag,Great Hall,Getting laptop out.
+167,27/10/2026,09:04,10:46,Laptop Case,Great Hall,Getting laptop out.
+168,27/10/2026,09:04,10:46,Laptop,Great Hall,Making notes.
+169,27/10/2026,11:10,11:10,Door,Library,Going to do some work.
+170,27/10/2026,11:15,11:15,Door,Library 6th Floor,Going to do some work.
+171,27/10/2026,11:18,12:45,Bag,Library 6th Floor,Getting laptop out.
+172,27/10/2026,11:18,12:45,Laptop Case,Library 6th Floor,Getting laptop out.
+173,27/10/2026,11:18,12:45,Laptop,Library 6th Floor,Doing work.
+174,27/10/2026,12:47,12:47,Door,Library,Going to Databases tutorial.
+175,27/10/2026,12:55,12:55,Door,ELG02,Going to Databases tutorial.
+176,27/10/2026,12:55,13:50,Bag,ELG02,Getting laptop out.
+177,27/10/2026,12:56,13:50,Laptop Case,ELG02,Getting laptop out.
+178,27/10/2026,12:56,13:50,Laptop,ELG02,Doing tutorial exercises.
+179,27/10/2026,14:20,14:20,Door,Flat,Going home.
+180,27/10/2026,14:21,14:21,Door,Bedroom,Going home.
+181,27/10/2026,18:30,18:30,Door,Hallway,Going to make dinner.
+182,27/10/2026,18:31,18:31,Door,Kitchen,Going to make dinner.
+183,27/10/2026,18:32,18:32,Fridge,Kitchen,Getting the ingredients.
+184,27/10/2026,18:34,18:34,Cupboard,Kitchen,Getting the ingredients and equipment.
+185,27/10/2026,19:10,19:10,Sink Tap,Kitchen,Washing up.
+186,27/10/2026,19:15,19:18,Cupboard,Kitchen,Putting everything away.
+187,27/10/2026,19:18,19:21,Fridge,Kitchen,Putting everything away.
+189,27/10/2026,19:21,19:21,Door,Hallway,Going back to room.
+189,27/10/2026,19:22,19:22,Door,Bedroom,Going back to room.
+190,,,,,,
+191,,,,,,
+192,,,,,,
+193,,,,,,
+194,,,,,,
+195,,,,,,
+196,,,,,,
+197,,,,,,
+198,,,,,,
+199,,,,,,
+200,,,,,,
